@@ -1,0 +1,33 @@
+Why a uniformed system (why chose git or svn)
+
+Why Git
+  - popular
+    - Microsoft is using it for it's open-source 
+  - distributed
+    - no one head that can be compromised. 
+
+  - collaboration
+    - code sharing
+    - code review (redundency)
+    - issue tracking
+    - 
+
+
+Git workflow
+
+GUI tools
+https://desktop.github.com
+
+Intro To GitHub
+http://www.gdiannarbor.com/events/intro-git/#/
+
+#h1 Resources
+http://gitimmersion.com
+https://try.github.io/levels/1/challenges/1
+https://github.com/glg/git-pairing
+https://github.com/Originate/git-town
+http://pcottle.github.io/learnGitBranching/
+http://ndpsoftware.com/git-cheatsheet.html
+
+#h1 Pull Requests
+https://medium.com/@mscccc/jr-developers-1-pull-requests-you-39a11c3bdd94#.yz1l9q708

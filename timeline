@@ -1,0 +1,27 @@
+A brief history of GIT
+  - genesis story
+  - break down how it works
+  - a basic workflow
+  - git vrs. github
+  - installing git
+  - creating github accounts
+  -- resources
+    -   https://www.codecademy.com/en/courses/learn-git
+    -   http://www.lynda.com/Git-tutorials/Up-Running-Git-GitHub/409275-2.html?srchtrk=index:1%0Alinktypeid:2%0Aq:git%0Apage:1%0As:relevance%0Asa:true%0Aproducttypeid:2
+
+
+What you can do with GIT & Github
+  - GIT basic workflow (solo)
+    - init
+    - add
+    - commit
+    - branch
+    - clone
+    - fetch
+    - pull
+    - merge
+  - Github basic workflow (collaboration)
+    - push
+    - pull request
+    - merge
+    - rebase

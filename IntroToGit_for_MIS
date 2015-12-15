@@ -1,0 +1,44 @@
+A brief history of git. Why it exists. What are the principles behind it?
+
+Installation 
+  - installing git for Windows
+  - creating a github account
+  - installing gui tools
+
+1.) git init
+  - the .git directory
+  - .gitignore
+
+2.) Git Project Basics
+  Nice! We have a Git project. A Git project can be thought of as having three parts:
+
+  a.) A Working Directory: where you'll be doing all the work: creating, editing, deleting and organizing files
+  b.) A Staging Area: where you'll list changes you make to the working directory
+  c.) A Repository: where Git permanently stores those changes as different versions of the project 
+
+  The Git workflow consists of editing files in the working directory, adding files to the staging area, and saving changes to a Git repository. In Git, we save changes with a commit, which we will learn more about in this lesson.
+
+3.) basic commands (explain with arguments)
+  - git status  
+  - git diff
+  - git add
+  - git commit
+    -> Commit Messages
+      • Must be in quotation marks
+      • Written in the present tense
+      • Should be brief (50 characters or less) when using -m
+  - git log
+    - A 40-character code, called a SHA, that uniquely identifies the commit. This appears in orange text.
+    - The commit author (you!)
+    - The date and time of the commit
+    - The commit message
+
+4.) Backtracking (revising git commits)
+  In Git, the commit you are currently on is known as the HEAD commit. In many cases, the most recently made commit is the HEAD commit.
+  - git show HEAD
+  - git checkout HEAD <filename>
+  - git reset HEAD <filename> 
+    [** We can unstage that file from the staging area using git reset HEAD. This command resets the file in the staging area to be the same as the HEAD commit. It does not discard file changes from the working directory, it just removes them from the staging area.]
+  - git reset SHA
+
+  5.) Branching
