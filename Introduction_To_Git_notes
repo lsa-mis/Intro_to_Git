@@ -13,17 +13,21 @@ Why Git
     - 
 
 
-Git workflow
+# Git workflow
 
-GUI tools
-https://desktop.github.com
-VisualStudio
-GitTools - installed from Extensions and Updates in VS --includes git_gui and GVsetup
+# GUI tools
+> https://desktop.github.com
 
-Intro To GitHub
+## VisualStudio
+* GitTools
+
+> installed from Extensions and Updates in VS
+> includes git_gui and GVsetup
+
+# Intro To GitHub
 http://www.gdiannarbor.com/events/intro-git/#/
 
-#h1 Resources
+# Resources
 http://gitimmersion.com
 https://try.github.io/levels/1/challenges/1
 https://github.com/glg/git-pairing
@@ -31,5 +35,5 @@ https://github.com/Originate/git-town
 http://pcottle.github.io/learnGitBranching/
 http://ndpsoftware.com/git-cheatsheet.html
 
-#h1 Pull Requests
+# Pull Requests
 https://medium.com/@mscccc/jr-developers-1-pull-requests-you-39a11c3bdd94#.yz1l9q708
