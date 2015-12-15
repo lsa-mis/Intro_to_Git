@@ -1,0 +1,3 @@
+The good commit
+
+There are several things to consider in using source control effectively. The most important is to remember that source control is a collaboration / communication tool. Every commit communicates important details about the work to other developers, collaborators, and to 'future you'. By making small, discrete commits and taking a little bit of extra time to create good commit messages, developers can very effectively document their work, and provide a roadmap for their project.
