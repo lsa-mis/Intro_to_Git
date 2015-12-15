@@ -17,8 +17,11 @@ Git workflow
 
 GUI tools
 https://desktop.github.com
-VisualStudio
-GitTools - installed from Extensions and Updates in VS --includes git_gui and GVsetup
+# VisualStudio
+
+* GitTools
+> installed from Extensions and Updates in VS
+> includes git_gui and GVsetup
 
 Intro To GitHub
 http://www.gdiannarbor.com/events/intro-git/#/
