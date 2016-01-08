@@ -1,5 +1,7 @@
 Why a uniformed system (why choose git or svn)
 
+I continue to look for opportunities for the team to be able to better collaborate.
+
 Why Git
   - popular
     - Microsoft is using it for it's open-source 
@@ -10,7 +12,10 @@ Why Git
     - code sharing
     - code review (redundency)
     - issue tracking
-    - 
+    - ad hoc sharing / collaboration
+    - work studies
+    - other units/departments
+- using a process will free us to not have to think about that stuff.
 
 
 Git workflow
