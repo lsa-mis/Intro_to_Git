@@ -1,0 +1,30 @@
+
+OVERVIEW
+1.) navigate to project directory and initialize the project
+2.) do your initial commit
+3.) set up the remote repository on Github
+4.) Configure your local repot to know about the remote
+5.) Set up origin master default
+
+Specific Steps
+
+cd project_directory
+
+git init
+
+git status
+
+git add .
+
+git status
+
+git commit -m "Initial commit"
+
+*** Visit Github and set up a new repository
+
+git remote add origin git@github.com:lsa-mis/path_to_repository.git
+
+git remote -v
+
+
+

@@ -1,0 +1,20 @@
+git status
+
+git checkout -b feature_name
+
+** Make a change to the code
+
+git status
+
+git add -p file_name1 file_name2 file_name3
+
+git commit -m "Add feature_name
+
+Referencing Ticket #123
+Feature added to do this thing that was really important and very cool."
+
+git status
+
+git checkout master
+
+git merge feature_name master

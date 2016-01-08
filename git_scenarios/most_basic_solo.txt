@@ -1,0 +1,10 @@
+git status
+
+** Make a change to the code
+
+git add .
+
+git commit -m "Done"
+
+git status
+
