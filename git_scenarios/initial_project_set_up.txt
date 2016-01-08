@@ -26,5 +26,5 @@ git remote add origin git@github.com:lsa-mis/path_to_repository.git
 
 git remote -v
 
-
+git push --set-upstream origin master
 
